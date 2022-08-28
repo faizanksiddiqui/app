@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471904116132",
+    "project_id": "faizanks-aec22",
+    "storage_bucket": "faizanks-aec22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471904116132:android:ac8f1d02f0d9c18e723531",
+        "android_client_info": {
+          "package_name": "com.faizanks.app.faizanks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471904116132-2ri0vjt4oh185gn5473d3m548pgs0n60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlLzuULtwgXb2x2xE_aKbM1dDaTy2OVoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471904116132-2ri0vjt4oh185gn5473d3m548pgs0n60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
